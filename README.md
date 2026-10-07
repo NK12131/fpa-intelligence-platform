@@ -241,30 +241,7 @@ Power BI dashboards translate complex financial analytics into intuitive executi
 The dataset used in this project represents **synthetic financial data** created to simulate realistic corporate financial dynamics.
 
 The purpose is to demonstrate financial analytics architecture and methodology, not to represent a real company dataset.
+`
 
----
-
-🔧 Environment Setup
-
-Install required Python dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-Configure database credentials using `.env.example`:
-
-```
-DB_USER=your_user
-DB_PASS=your_password
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=finance_ifrs_dw
-```
-
-📬 Contact
-
-📩 Email: gustavo.provento@gmail.com
-
-💼 LinkedIn: linkedin.com/in/gustavo-m-freitas  
-📂 GitHub: github.com/gustavo-m-freitas
+📬 Author:
+NK13
