@@ -1,4 +1,4 @@
-📊 Digital Finance Forecasting & Analytics Platform
+## Digital Finance Forecasting & Analytics Platform
 
 This project is an **end-to-end financial analytics platform** designed to replicate a modern corporate **Finance and FP&A analytical environment.**
 
